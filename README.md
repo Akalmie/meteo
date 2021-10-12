@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Application looks like
+![meteo](public/3.jpg)
+
 ## Available Scripts
 
 In the project directory, you can run:
